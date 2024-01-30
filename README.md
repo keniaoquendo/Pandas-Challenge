@@ -1,1 +1,5 @@
 # Pandas-Challenge
+
+SUMMARY ANALYSIS
+Overall the findings show that Charter schools have not only higher Overall Passing Scores, but higher scores in each indivual catergory such as Math and Reading. Given the overall
+impression that a student that is sent to a charter school will have grades than those at a district school. We would need further data to give us analysis as to why this might be, however some hypothesis consists of possibly the teaching structures in the charter schools and the style of teaching that is being used. Maybe a more structred schedule and overall consistency calls for overall better grades. When looking at the spending bin comparisons, it showed that those with a smaller spending bin had the highest average grades. When comparing scores by grade it showed pretty consistent and did not show that certain grade levels receieved higher or lower scores than other grade levels. Latly, budgets did not seem to play a signifcant role, as there were some schools with higher budget per schools but still had very low grade averages. Therefore, I believe that there are other factors to explore. 
